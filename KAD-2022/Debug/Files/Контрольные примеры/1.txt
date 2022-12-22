@@ -1,0 +1,49 @@
+main
+{
+    #функция вычисления длины строки
+    str var arr = "Hello";
+    int var result = lenght(arr);
+    write result;
+    write " ";
+    
+    #функция копирования строк
+    str var arr_two = "greenHouse";
+    str var resultS = copy(resultS, arr_two, 5);
+    write resultS;
+    write " ";
+    
+    #функция времени и даты
+    str var time= getLocalTimeAndDate();
+    write time;
+    write " ";
+    
+    #функция возведения числа в степень
+    int var pow = powNumber(10,3);
+    write pow;
+    write " ";
+    
+    #функция случайного числа
+    int var ranNum= random(10, 100);
+    write ranNum;
+    write " ";
+    
+    #функция факториала
+    int var factorial = factorialOfNumber(6);
+    write factorial;
+    write " ";
+    
+    #функция квадрата
+    int var square = squareOfNumber(16);
+    write square;
+    write " ";
+}
+
+
+
+
+
+
+
+
+
+

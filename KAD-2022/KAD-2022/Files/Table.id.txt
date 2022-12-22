@@ -1,0 +1,34 @@
+ПЕРЕМЕННЫЕ
+Индекс LE	Область видимости	Идентификатор	Тип Идентификатора	Тип данных	Значение	Длина строки
+        7	             main	      timeNow	                 V	       STR	        	           0
+       21	             main	            i	                 V	       INT	       0	           -
+       34	          repeat0	       result	                 V	       INT	       0	           -
+       63	             main	            s	                 V	       STR	        	           0
+       69	             main	          res	                 V	       STR	        	           0
+       91	             main	          num	                 V	       INT	       0	           -
+       97	             main	            r	                 V	       INT	       0	           -
+
+ФУНКЦИИ
+Индекс LE	Область видимости	Идентификатор	Тип данных возврата
+        0	           global	       lenght	                INT
+        0	           global	         copy	                STR
+        0	           global	getLocalTimeAndDate	                STR
+        0	           global	    powNumber	                INT
+        0	           global	       random	                INT
+        0	           global	squareOfNumber	                INT
+        0	           global	factorialOfNumber	                INT
+
+ЛИТЕРАЛЫ
+Индекс LE	Идентификатор	Тип данных	Длина строки		                         Значение
+        3	          L0        STR	             16                                     	"Текущее время:"
+       17	          L1        STR	             45                                     	"вывод чётных чисел в диапазоне от 10 до 50:"
+       23	          L2        INT	              -		                                      10	
+       29	          L3        INT	              -		                                      50	
+       40	          L4        INT	              -		                                       2	
+       46	          L5        INT	              -		                                       0	
+       58	          L6        INT	              -		                                       1	
+       65	          L7        STR	             10                                     	"notebook"
+       77	          L8        INT	              -		                                       4	
+       81	          L9        STR	              3                                     	" "
+       84	         L10        STR	             20                                     	"Копирование строк:"
+      108	         L11        STR	             15                                     	"Факториал 10:"

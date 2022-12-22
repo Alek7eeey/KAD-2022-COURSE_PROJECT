@@ -1,0 +1,12 @@
+if
+else
+then
+int
+str
+var
+param
+repeat
+return
+function
+write
+main

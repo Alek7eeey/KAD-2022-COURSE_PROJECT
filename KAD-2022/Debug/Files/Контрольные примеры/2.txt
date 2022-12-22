@@ -1,0 +1,64 @@
+int function DivisionByFive(int param count)
+{
+	int var i; i = count;
+	int var countOfNumber;
+		repeat(i < h64)
+		{
+			int var result;
+			result = i % 5;
+			result = result - 1;
+			if(result < 0)
+			then 
+			{
+				write i;
+				countOfNumber = countOfNumber + 1;
+			}
+			i = i + 1;
+		}
+	return countOfNumber;
+}
+
+int function findMaxStroke(str param strOne, str param strTwo)
+{
+	int var lenghtOfFirstStroke = lenght(strOne);
+	int var lenghtOfSecondStroke = lenght(strTwo);
+	int var result;
+
+	if(lenghtOfFirstStroke > lenghtOfSecondStroke)
+	then
+	{
+		result = lenghtOfFirstStroke;
+	}
+	else
+	{
+		result = lenghtOfSecondStroke;
+	}
+	return result;
+}
+
+main
+{
+ 	write "Это проект с названием KAD-2022";
+	str var group = "POIT_5"; 
+	write group;
+	write  " ";
+	
+	write "Вывод всех чисел, которые делятся на 5 нацело (в диапазоне от 0 до 100):";
+	int var count = DivisionByFive(b100);
+	write "Количество чисел, которые делятся на 5: ";
+	write count;
+	write  " ";
+
+	str var strokeOne = "Hello";
+	str var strokeSecond = "How are you?";
+	write strokeOne;
+	write strokeSecond;
+	write "Первых три элемента, скопированных из первой строки во вторую :";
+	str var ns = copy(strokeOne, strokeSecond, 3 );
+	write ns;
+	write " ";
+
+	write "Длина наибольшей строки из двух: ";
+	int var maxL = findMaxStroke(strokeOne, strokeSecond);
+	write maxL;
+}

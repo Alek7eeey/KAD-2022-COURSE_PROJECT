@@ -1,0 +1,37 @@
+D:\studing\3 семестр\Конструирование_программного_обеспечения\Курсовой_проект\KAD-2022\Interface\Interface\bin\Debug\Interface.exe.config
+D:\studing\3 семестр\Конструирование_программного_обеспечения\Курсовой_проект\KAD-2022\Interface\Interface\bin\Debug\Interface.exe
+D:\studing\3 семестр\Конструирование_программного_обеспечения\Курсовой_проект\KAD-2022\Interface\Interface\bin\Debug\Interface.pdb
+D:\studing\3 семестр\Конструирование_программного_обеспечения\Курсовой_проект\KAD-2022\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+D:\studing\3 семестр\Конструирование_программного_обеспечения\Курсовой_проект\KAD-2022\Interface\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+D:\studing\3 семестр\Конструирование_программного_обеспечения\Курсовой_проект\KAD-2022\Interface\Interface\obj\Debug\Interface.Properties.Resources.resources
+D:\studing\3 семестр\Конструирование_программного_обеспечения\Курсовой_проект\KAD-2022\Interface\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+D:\studing\3 семестр\Конструирование_программного_обеспечения\Курсовой_проект\KAD-2022\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\studing\3 семестр\Конструирование_программного_обеспечения\Курсовой_проект\KAD-2022\Interface\Interface\obj\Debug\Interface.exe
+D:\studing\3 семестр\Конструирование_программного_обеспечения\Курсовой_проект\KAD-2022\Interface\Interface\obj\Debug\Interface.pdb
+D:\studing\3 семестр\Конструирование_программного_обеспечения\Курсовой_проект\KAD-2022\Interface\Interface\obj\Debug\Interface.StartForm.resources
+D:\CourseProject\KAD-2022\Interface\Interface\bin\Debug\Interface.exe.config
+D:\CourseProject\KAD-2022\Interface\Interface\bin\Debug\Interface.exe
+D:\CourseProject\KAD-2022\Interface\Interface\bin\Debug\Interface.pdb
+D:\CourseProject\KAD-2022\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+D:\CourseProject\KAD-2022\Interface\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+D:\CourseProject\KAD-2022\Interface\Interface\obj\Debug\Interface.Properties.Resources.resources
+D:\CourseProject\KAD-2022\Interface\Interface\obj\Debug\Interface.StartForm.resources
+D:\CourseProject\KAD-2022\Interface\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+D:\CourseProject\KAD-2022\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\CourseProject\KAD-2022\Interface\Interface\obj\Debug\Interface.exe
+D:\CourseProject\KAD-2022\Interface\Interface\obj\Debug\Interface.pdb
+C:\CourseProject\KAD-2022\Interface\Interface\bin\Debug\Interface.exe.config
+C:\CourseProject\KAD-2022\Interface\Interface\bin\Debug\Interface.exe
+C:\CourseProject\KAD-2022\Interface\Interface\bin\Debug\Interface.pdb
+C:\CourseProject\KAD-2022\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\CourseProject\KAD-2022\Interface\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+C:\CourseProject\KAD-2022\Interface\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\CourseProject\KAD-2022\Interface\Interface\obj\Debug\Interface.StartForm.resources
+C:\CourseProject\KAD-2022\Interface\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\CourseProject\KAD-2022\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\CourseProject\KAD-2022\Interface\Interface\obj\Debug\Interface.exe
+C:\CourseProject\KAD-2022\Interface\Interface\obj\Debug\Interface.pdb
+C:\CourseProject\KAD-2022\Interface\Interface\bin\Debug\AutocompleteMenu.dll
+C:\CourseProject\KAD-2022\Interface\Interface\bin\Debug\FastColoredTextBox.dll
+C:\CourseProject\KAD-2022\Interface\Interface\obj\Debug\Interface.csproj.CopyComplete
+C:\CourseProject\KAD-2022\Interface\Interface\obj\Debug\Interface.Search.resources

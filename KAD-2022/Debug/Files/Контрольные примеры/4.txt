@@ -1,0 +1,36 @@
+main
+{
+    #получение текущего времени и даты
+    write "Текущее время:";
+    str var timeNow = getLocalTimeAndDate();
+    write timeNow;
+    
+    #вывод чисел используя цикл
+    write "вывод чётных чисел в диапазоне от 10 до 50:";
+    int var i = b1010; #1010 в 2ой сс - 10
+    repeat(i < h32) #h32 в 8ой сс - 50
+    {
+        int var result;
+        result = i % 2;
+        if(result & 0)
+        then 
+        {
+            write i;
+        }
+        i = i + 1;
+    }
+    
+    #работа со строками
+    str var s = "notebook";
+    str var res = copy(res, s, 4);
+    write " ";
+    write "Копирование строк:";
+    write res;
+    
+    #работа с числами
+    int var num= 10;
+    int var r = factorialOfNumber(num);
+    write " ";
+    write "Факториал 10:";
+    write r;
+}

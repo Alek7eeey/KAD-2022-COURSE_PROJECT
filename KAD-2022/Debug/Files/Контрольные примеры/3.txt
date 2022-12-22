@@ -1,0 +1,41 @@
+int function FindMaxLen(str param x, str param y)
+{
+	int var result;
+	int var lenX; lenX = lenght(x);
+	int var lenY; lenY = lenght(y);
+	if(lenX > lenY)
+	then
+	{
+		result = lenX;
+	}
+	else
+	{
+		result = lenY;
+	}
+	return result;
+}
+
+main
+{
+	int var maxLen;
+	str var firstStr;	  firstStr = "строка";
+	str var secondStr;	  secondStr = "строка12";
+	str var thirdStr;	  thirdStr = "строка123";
+	
+	write "исходные данные";
+	write firstStr;
+	write secondStr;
+	maxLen = FindMaxLen(firstStr, secondStr);
+	write "длина большей строки сравнивая первую и вторую строки:";
+	write maxLen;
+
+	firstStr = copy(firstStr, thirdStr, 5);
+	write "скопировав третью строку в первую строку";
+
+	write "исходные данные";
+	write firstStr;
+	write secondStr;
+	maxLen = FindMaxLen(firstStr, secondStr);
+	write "длина большей строки сравнивая первую и вторую строки:";
+	write maxLen;
+}

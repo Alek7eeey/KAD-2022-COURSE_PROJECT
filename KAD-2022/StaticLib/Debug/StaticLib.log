@@ -1,0 +1,5 @@
+﻿  StandartFunc.cpp
+C:\CourseProject\KAD-2022\StaticLib\StandartFunc.cpp(50,13): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\CourseProject\KAD-2022\StaticLib\StandartFunc.cpp(55,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\CourseProject\KAD-2022\StaticLib\StandartFunc.cpp(70,14): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  StaticLib.vcxproj -> C:\CourseProject\KAD-2022\Debug\StaticLib.lib
